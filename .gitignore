@@ -1,0 +1,21 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Environment folders
+.venv/
+env/
+venv/
+
+# Editor folders
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
